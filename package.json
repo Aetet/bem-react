@@ -1,0 +1,14 @@
+{
+  "name": "bem-react",
+  "version": "0.0.0",
+  "description": "Bem react example",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "author": "Aetet",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.12.1"
+  }
+}
